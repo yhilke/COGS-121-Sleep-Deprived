@@ -12,3 +12,5 @@
 2. A reminder to tell you when to leave your house when you are about to catch the bus</p>
 3. Track how much time you spend on other apps vs your homework
 4. A count down timer that restricts the use of Netflix to increase productivity.
+5. Weather related advisory
+6. Overwatch competitive monitor. If someone was super interested in climbing the ranks they could get a notification when they reach a certain rank in their role/ character. 
