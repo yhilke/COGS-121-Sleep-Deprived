@@ -38,9 +38,22 @@ DESCRIPTION HERE
 <img src="https://raw.githubusercontent.com/matt-ewho/COGS-121-Sleep-Deprived/master/images/Paper%20Prototype%20-%20OW/ow_pp_step16.jpg" height="50%" width="50%">
 17. Back at home page, I press “settings”
 <img src="https://raw.githubusercontent.com/matt-ewho/COGS-121-Sleep-Deprived/master/images/Paper%20Prototype%20-%20OW/ow_pp_step17.jpg" height="50%" width="50%">
-18. On the settings page, I can change notifications, frequency and sound of the notifications. 
+18. On the settings page, I can change notifications, frequency and sound of the notifications.
 <img src="https://raw.githubusercontent.com/matt-ewho/COGS-121-Sleep-Deprived/master/images/Paper%20Prototype%20-%20OW/ow_pp_step18.jpg" height="50%" width="50%">
 
 ## Storyboard 2: Netflix Prototype
-This prototype is related to tracking productivity and distractions and utilizing that data to create a real-time, visual representation of time usage. The storyboard depicts a young student who starts to work on his assignment; he takes a short Netflix break and realizes that he spent more time watching than working. Using the prototype app, he is able to see (via a bar) how much time he has actually spent working vs. playing. In the end, he uses this information to decide how much to "play" when he is done with his work. 
+This prototype is related to tracking productivity and distractions and utilizing that data to create a real-time, visual representation of time usage. The storyboard depicts a young student who starts to work on his assignment; he takes a short Netflix break and realizes that he spent more time watching than working. Using the prototype app, he is able to see (via a bar) how much time he has actually spent working vs. playing. In the end, he uses this information to decide how much to "play" when he is done with his work.
 ![Should I really be watching Netflix right now? Storyboard](https://raw.githubusercontent.com/matt-ewho/COGS-121-Sleep-Deprived/master/images/should_i_really_be_watching_netflix_storyboard.jpg)
+
+
+## Paper Prototype for Should I Really be Watching Netflix Right Now?
+1.
+<img src="https://raw.githubusercontent.com/matt-ewho/COGS-121-Sleep-Deprived/master/images/Paper%20Prototype%20-%20OW/netflix_pp_step1.jpg" height="50%" width="50%">
+2.
+<img src="https://raw.githubusercontent.com/matt-ewho/COGS-121-Sleep-Deprived/master/images/Paper%20Prototype%20-%20OW/netflix_pp_step2.jpg" height="50%" width="50%">
+3.
+<img src="https://raw.githubusercontent.com/matt-ewho/COGS-121-Sleep-Deprived/master/images/Paper%20Prototype%20-%20OW/netflix_pp_step3.jpg" height="50%" width="50%">
+4.
+<img  src="https://raw.githubusercontent.com/matt-ewho/COGS-121-Sleep-Deprived/master/images/Paper%20Prototype%20-%20OW/netflix_pp_step4.jpg" height="50%" width="50%">
+5.
+<img src="https://raw.githubusercontent.com/matt-ewho/COGS-121-Sleep-Deprived/master/images/Paper%20Prototype%20-%20OW/netflix_pp_step5.jpg" height="50%" width="50%">
