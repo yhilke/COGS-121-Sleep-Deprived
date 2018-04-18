@@ -47,13 +47,13 @@ This prototype is related to tracking productivity and distractions and utilizin
 
 
 ## Paper Prototype for Should I Really be Watching Netflix Right Now?
-1.
-<img src="https://raw.githubusercontent.com/matt-ewho/COGS-121-Sleep-Deprived/master/images/Paper%20Prototype%20-%20OW/netflix_pp_step1.jpg" height="50%" width="50%">
-2.
-<img src="https://raw.githubusercontent.com/matt-ewho/COGS-121-Sleep-Deprived/master/images/Paper%20Prototype%20-%20OW/netflix_pp_step2.jpg" height="50%" width="50%">
-3.
-<img src="https://raw.githubusercontent.com/matt-ewho/COGS-121-Sleep-Deprived/master/images/Paper%20Prototype%20-%20OW/netflix_pp_step3.jpg" height="50%" width="50%">
-4.
-<img  src="https://raw.githubusercontent.com/matt-ewho/COGS-121-Sleep-Deprived/master/images/Paper%20Prototype%20-%20OW/netflix_pp_step4.jpg" height="50%" width="50%">
-5.
-<img src="https://raw.githubusercontent.com/matt-ewho/COGS-121-Sleep-Deprived/master/images/Paper%20Prototype%20-%20OW/netflix_pp_step5.jpg" height="50%" width="50%">
+1. In the log in page, user gets to enter by logging in.
+<img src="https://raw.githubusercontent.com/matt-ewho/COGS-121-Sleep-Deprived/master/images/Paper%20Prototype%20-%20netflix/netflix_pp_step1.JPG" height="50%" width="50%">
+2. User is able to connect their account through their Google account. And once a personal account is established, the site can track the user's browsing activities.
+<img src="https://raw.githubusercontent.com/matt-ewho/COGS-121-Sleep-Deprived/master/images/Paper%20Prototype%20-%20netflix/netflix_pp_step2.JPG" height="50%" width="50%">
+3. Once the user has logged in, the site will display a progress bar. The unit for the progress bar is the amount of time user has been active on a particular webpage for the past hour. If the progress bar is over 50%, user will receive the display or notification that they should be watching Netflix. In the example, the user has spent less than 50% of their time on being productive in the past hour and therefore the site is discouraging the user from watching Netflix.
+<img src="https://raw.githubusercontent.com/matt-ewho/COGS-121-Sleep-Deprived/master/images/Paper%20Prototype%20-%20netflix/netflix_pp_step3.JPG" height="50%" width="50%">
+4. User is able to select the timeframe where the progress bar checks the amount of time the user is utilizing their Internet for productivity.
+<img  src="https://raw.githubusercontent.com/matt-ewho/COGS-121-Sleep-Deprived/master/images/Paper%20Prototype%20-%20netflix/netflix_pp_step4.JPG" height="50%" width="50%">
+5. Even though the user hasn't been productive for the past hour, the user is productive in a 24 hours timeframe. Therefore, the site is encouraging the user to watch Netflix.  
+<img src="https://raw.githubusercontent.com/matt-ewho/COGS-121-Sleep-Deprived/master/images/Paper%20Prototype%20-%20netflix/netflix_pp_step5.JPG" height="50%" width="50%">
