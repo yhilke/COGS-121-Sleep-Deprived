@@ -1,10 +1,10 @@
 # COGS-121-Sleep Deprived
 ## Storyboard 1:
-![Overwatch Stats Tracker Storyboard](https://raw.githubusercontent.com/matt-ewho/COGS-121-Sleep-Deprived/master/images/ow-storyboard.JPG)
+![Overwatch Stats Tracker Storyboard](https://raw.githubusercontent.com/matt-ewho/COGS-121-Sleep-Deprived/master/images/ow-storyboard.JPG){:height="50%" width="50%"}
 
 
 ## Storyboard 2:
-![Should I really be watching Netflix right now? Storyboard](https://raw.githubusercontent.com/matt-ewho/COGS-121-Sleep-Deprived/master/images/should_i_really_be_watching_netflix_storyboard.jpg)
+![Should I really be watching Netflix right now? Storyboard](https://raw.githubusercontent.com/matt-ewho/COGS-121-Sleep-Deprived/master/images/should_i_really_be_watching_netflix_storyboard.jpg){:height="50%" width="50%"}
 
 
 ## Paper Prototype for Storyboard 1:
