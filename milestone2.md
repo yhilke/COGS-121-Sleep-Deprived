@@ -8,7 +8,7 @@
 
 
 ## Paper Prototype for Storyboard 1:
-1. ![Overwatch Stats Tracker Paper Prototype Step 1](https://raw.githubusercontent.com/matt-ewho/COGS-121-Sleep-Deprived/master/images/Paper%20Prototype%20-%20OW/ow_pp_step01.jpg)
+1. <img src="https://raw.githubusercontent.com/matt-ewho/COGS-121-Sleep-Deprived/master/images/Paper%20Prototype%20-%20OW/ow_pp_step01.jpg" height="50%" width="50%"> 
 2. ![Overwatch Stats Tracker Paper Prototype Step 2](https://raw.githubusercontent.com/matt-ewho/COGS-121-Sleep-Deprived/master/images/Paper%20Prototype%20-%20OW/ow_pp_step02.jpg)
 3. ![Overwatch Stats Tracker Paper Prototype Step 3](https://raw.githubusercontent.com/matt-ewho/COGS-121-Sleep-Deprived/master/images/Paper%20Prototype%20-%20OW/ow_pp_step03.jpg)
 4. ![Overwatch Stats Tracker Paper Prototype Step 4](https://raw.githubusercontent.com/matt-ewho/COGS-121-Sleep-Deprived/master/images/Paper%20Prototype%20-%20OW/ow_pp_step04.jpg)
