@@ -4,4 +4,4 @@
 
 
 ## Storyboard 2:
-![Should I really be watching Netflix right now? Storyboard](https://raw.githubusercontent.com/matt-ewho/COGS-121-Sleep-Deprived/master/images/should-i-really-be-watching-netflix_storyboard.JPG)
+![Should I really be watching Netflix right now? Storyboard](https://raw.githubusercontent.com/matt-ewho/COGS-121-Sleep-Deprived/master/images/should_i_really_be_watching_netflix_storyboard.jpg) 
