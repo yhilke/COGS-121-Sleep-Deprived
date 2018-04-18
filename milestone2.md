@@ -1,5 +1,6 @@
 # COGS-121-Sleep Deprived
-## Storyboard 1:
+## Storyboard 1: Overwatch Prototype
+DESCRIPTION HERE
 ![Overwatch Stats Tracker Storyboard](https://raw.githubusercontent.com/matt-ewho/COGS-121-Sleep-Deprived/master/images/ow-storyboard.JPG) <!-- .element height="50%" width="50%" -->
 
 ## Paper Prototype for Storyboard 1:
@@ -40,5 +41,6 @@
 18. On the settings page, I can change notifications, frequency and sound of the notifications. 
 <img src="https://raw.githubusercontent.com/matt-ewho/COGS-121-Sleep-Deprived/master/images/Paper%20Prototype%20-%20OW/ow_pp_step18.jpg" height="50%" width="50%">
 
-## Storyboard 2:
+## Storyboard 2: Netflix Prototype
+This prototype is related to tracking productivity and distractions and utilizing that data to create a real-time, visual representation of time usage. The storyboard depicts a young student who starts to work on his assignment; he takes a short Netflix break and realizes that he spent more time watching than working. Using the prototype app, he is able to see (via a bar) how much time he has actually spent working vs. playing. In the end, he uses this information to decide how much to "play" when he is done with his work.
 ![Should I really be watching Netflix right now? Storyboard](https://raw.githubusercontent.com/matt-ewho/COGS-121-Sleep-Deprived/master/images/should_i_really_be_watching_netflix_storyboard.jpg)
